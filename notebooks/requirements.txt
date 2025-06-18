@@ -1,0 +1,10 @@
+plotly
+tqdm
+transformers
+scikit-learn
+keras
+torch
+seaborn
+matplotlib
+tensorflow
+sentencepiece
